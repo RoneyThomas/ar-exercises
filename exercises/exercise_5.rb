@@ -1,4 +1,4 @@
-require_relative '../setup'
+require_relative '../../ar-exercises/setup'
 require_relative './exercise_1'
 require_relative './exercise_2'
 require_relative './exercise_3'
